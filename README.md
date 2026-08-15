@@ -1,6 +1,6 @@
-# github-foundations-claire
+# github-foundations-Claire
 
-Claire This repository contains my GitHub learning exercises.
+This repository contains my GitHub learning exercises.
 
 ## Goals 
 - Learn Git
