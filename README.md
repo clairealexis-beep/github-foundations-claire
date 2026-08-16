@@ -15,3 +15,7 @@ I'm learning Git and GitHub so I can manage my projects professionally and build
 ## GitHub Journey
 
 I'm learning Git and GitHub step by step.
+
+## About Me
+
+I'm Claire, a Computer Science student learning Git and GitHub.
