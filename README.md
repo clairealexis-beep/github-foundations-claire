@@ -19,3 +19,10 @@ I'm learning Git and GitHub step by step.
 ## About Me
 
 I'm Claire, a Computer Science student learning Git and GitHub.
+
+## My GitHub Goals
+
+- Become confident using Git and GitHub
+- Build and manage my CS projects
+- Learn collaborative development
+- Prepare for the GitHub Foundations certification
