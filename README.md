@@ -44,6 +44,16 @@ github-foundations-claire/
 └── README.md
 ```
 
+## Projects
+
+### GitHub Foundations
+
+A hands-on repository documenting my journey learning Git and GitHub, including branches, commits, pull requests, Markdown, and collaborative workflows.
+
+### LearnLingo
+
+A Kenyan Duolingo-inspired language learning web application built with HTML, CSS, and JavaScript.
+
 ## Connect With Me
 
 - [GitHub](https://github.com/clairealexis-beep)
